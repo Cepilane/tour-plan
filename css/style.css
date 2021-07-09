@@ -604,4 +604,14 @@ th {
     width: 99px;
   }
 }
+
+@media (max-width: 320px) {
+  .container {
+    max-width: 300px;
+  }
+  .logo__image {
+    width: 99px;
+    padding-left: 20px;
+  }
+}
 /*# sourceMappingURL=style.css.map */
